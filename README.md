@@ -6,7 +6,7 @@ Please use Arduino IDE with DxCore
 
 ## Drum Map
 | GM | Note |	Name (GM)	| KPR-77 Voice |
-|--|--|--|--|--|
+|--|--|--|--|
 | 35 | 	Acoustic Bass Drum	 | Bass Drum | 1 |
 | 36 | 	Bass Drum 1 | 	Bass Drum (Alt) | 	2 |
 | 38 | 	Acoustic Snare	 | Snare	 | 3 |
